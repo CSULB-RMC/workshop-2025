@@ -1,5 +1,18 @@
 #include <iostream>
 using namespace std;
+class C{
+  public:
+    string pub = "Public Variable: 4321";
+    C(string p){
+      priv = p;
+    }
+    void getPrivate(){
+      cout << priv << endl;
+    }
+  private:
+    string priv;
+};
+
 int main() {
   int integer = 0;
   cout << integer << endl;
@@ -23,10 +36,16 @@ int main() {
   }
   cout << endl;
 
-  char string[] = "Hello World!";
-  cout << string << endl;
+  string str = "Hello World!";
+  cout << str << endl;
   cout << endl;
 
   int *pointer = &integer;
   cout << pointer << " " << *pointer << endl;
+
+  C myClass("Private: 1234");
+
+  cout << myClass.pub << endl;
+
+  myClass.getPrivate();
 }
