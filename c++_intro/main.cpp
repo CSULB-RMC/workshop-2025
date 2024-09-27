@@ -20,10 +20,10 @@ int main() {
   bool boolean = true;
   cout << boolean << endl;
 
-  float floating = 0.0;
+  float floating = 0.2;
   cout << floating << endl;
 
-  double double_precision = 0.0;
+  double double_precision = 0.1;
   cout << double_precision << endl;
 
   char character = 'a';
@@ -42,6 +42,11 @@ int main() {
 
   int *pointer = &integer;
   cout << pointer << " " << *pointer << endl;
+
+  char charArray[] = "Bye World";
+  char *ptr = charArray;
+  //ptr++;
+  cout << pointer << " " << *ptr << endl;
 
   C myClass("Private: 1234");
 
