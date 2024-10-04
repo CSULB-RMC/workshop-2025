@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 class C{
+  private:
+    string priv;
   public:
     string pub = "Public Variable: 4321";
     C(string p){
@@ -9,8 +11,6 @@ class C{
     void getPrivate(){
       cout << priv << endl;
     }
-  private:
-    string priv;
 };
 
 int main() {
