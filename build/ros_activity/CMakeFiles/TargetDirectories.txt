@@ -1,0 +1,9 @@
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/uninstall.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/ros_activity_uninstall.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/test.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/edit_cache.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/rebuild_cache.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/list_install_components.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/install.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/install/local.dir
+/home/leopan/Programming/workshop-2025/build/ros_activity/CMakeFiles/install/strip.dir

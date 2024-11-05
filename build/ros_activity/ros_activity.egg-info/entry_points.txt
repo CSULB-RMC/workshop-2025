@@ -1,0 +1,2 @@
+[console_scripts]
+broadcast = ros_activity.secret_message:main

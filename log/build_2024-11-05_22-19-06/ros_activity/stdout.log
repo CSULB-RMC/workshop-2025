@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/ros_activity/ros_activity.egg-info
+writing ../../build/ros_activity/ros_activity.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros_activity/ros_activity.egg-info/dependency_links.txt
+writing entry points to ../../build/ros_activity/ros_activity.egg-info/entry_points.txt
+writing requirements to ../../build/ros_activity/ros_activity.egg-info/requires.txt
+writing top-level names to ../../build/ros_activity/ros_activity.egg-info/top_level.txt
+writing manifest file '../../build/ros_activity/ros_activity.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros_activity/ros_activity.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ros_activity/ros_activity.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/leopan/Programming/workshop-2025/build/ros_activity/build
+creating /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib
+creating /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib/ros_activity
+copying ros_activity/__init__.py -> /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib/ros_activity
+copying ros_activity/secret_message.py -> /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib/ros_activity
+running install
+running install_lib
+creating /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity
+copying /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib/ros_activity/__init__.py -> /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity
+copying /home/leopan/Programming/workshop-2025/build/ros_activity/build/lib/ros_activity/secret_message.py -> /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity
+byte-compiling /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity/secret_message.py to secret_message.cpython-312.pyc
+running install_data
+copying resource/ros_activity -> /home/leopan/Programming/workshop-2025/install/ros_activity/share/ament_index/resource_index/packages
+copying package.xml -> /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity
+running install_egg_info
+Copying ../../build/ros_activity/ros_activity.egg-info to /home/leopan/Programming/workshop-2025/install/ros_activity/lib/python3.12/site-packages/ros_activity-0.0.0-py3.12.egg-info
+running install_scripts
+Installing broadcast script to /home/leopan/Programming/workshop-2025/install/ros_activity/lib/ros_activity
+writing list of installed files to '/home/leopan/Programming/workshop-2025/build/ros_activity/install.log'

@@ -1,0 +1,42 @@
+[0.013s] Invoking command in '/home/leopan/Programming/workshop-2025/build/ros_activity': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/leopan/Programming/workshop-2025/src/ros_activity -DCMAKE_INSTALL_PREFIX=/home/leopan/Programming/workshop-2025/install/ros_activity
+[0.786s] -- The C compiler identification is GNU 13.2.0
+[1.074s] -- The CXX compiler identification is GNU 13.2.0
+[1.090s] -- Detecting C compiler ABI info
+[1.170s] -- Detecting C compiler ABI info - done
+[1.176s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.177s] -- Detecting C compile features
+[1.177s] -- Detecting C compile features - done
+[1.183s] -- Detecting CXX compiler ABI info
+[1.244s] -- Detecting CXX compiler ABI info - done
+[1.249s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.250s] -- Detecting CXX compile features
+[1.250s] -- Detecting CXX compile features - done
+[1.267s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.351s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.461s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.541s] -- Added test 'lint_cmake' to check CMake code style
+[1.543s] -- Added test 'xmllint' to check XML markup files
+[1.544s] -- Configuring done (1.4s)
+[1.549s] -- Generating done (0.0s)
+[1.550s] -- Build files have been written to: /home/leopan/Programming/workshop-2025/build/ros_activity
+[1.557s] Invoked command in '/home/leopan/Programming/workshop-2025/build/ros_activity' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/leopan/Programming/workshop-2025/src/ros_activity -DCMAKE_INSTALL_PREFIX=/home/leopan/Programming/workshop-2025/install/ros_activity
+[1.557s] Invoking command in '/home/leopan/Programming/workshop-2025/build/ros_activity': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/leopan/Programming/workshop-2025/build/ros_activity -- -j4 -l4
+[1.578s] Invoked command in '/home/leopan/Programming/workshop-2025/build/ros_activity' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/leopan/Programming/workshop-2025/build/ros_activity -- -j4 -l4
+[1.591s] Invoking command in '/home/leopan/Programming/workshop-2025/build/ros_activity': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/leopan/Programming/workshop-2025/build/ros_activity
+[1.594s] -- Install configuration: ""
+[1.595s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ament_index/resource_index/package_run_dependencies/ros_activity
+[1.595s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ament_index/resource_index/parent_prefix_path/ros_activity
+[1.595s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/environment/ament_prefix_path.sh
+[1.595s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/environment/ament_prefix_path.dsv
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/environment/path.sh
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/environment/path.dsv
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/local_setup.bash
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/local_setup.sh
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/local_setup.zsh
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/local_setup.dsv
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/package.dsv
+[1.596s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ament_index/resource_index/packages/ros_activity
+[1.597s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/cmake/ros_activityConfig.cmake
+[1.597s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/cmake/ros_activityConfig-version.cmake
+[1.597s] -- Installing: /home/leopan/Programming/workshop-2025/install/ros_activity/share/ros_activity/package.xml
+[1.598s] Invoked command in '/home/leopan/Programming/workshop-2025/build/ros_activity' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/leopan/Programming/workshop-2025/build/ros_activity
